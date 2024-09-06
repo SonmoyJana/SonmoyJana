@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sonmoy Jana</h1>
 <h3 align="center">A passionate machine learning engineer</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fnanmi&psig=AOvVaw2E-unvc1yK1pi_eKhDCLSw&ust=1725361579491000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIDyrpOPpIgDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🔭 I’m currently working on [Credit Card Fraud Detection Case Study](https://github.com/SonmoyJana/Credit-Card-Fraud-Detection-)
 
