@@ -1,4 +1,4 @@
-
+![logo](https://github.com/SonmoyJana/SonmoyJana/blob/main/Design%204.png)
 <h1 align="center">Hi 👋, I'm Sonmoy Jana</h1>
 <h3 align="center">A passionate machine learning engineer</h3>
 
